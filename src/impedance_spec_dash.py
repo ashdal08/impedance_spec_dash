@@ -13,8 +13,8 @@ import scipy
 from gevent.pywsgi import WSGIServer
 import waitress
 
-# from custom_libs.hp4192a import HP4192A
-from custom_libs.dummy_gpib import HP4192A
+from custom_libs.hp4192a import HP4192A
+# from custom_libs.dummy_gpib import HP4192A
 
 from dash import (
     Dash,
