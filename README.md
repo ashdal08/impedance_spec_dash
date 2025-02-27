@@ -15,3 +15,7 @@ This program was written for a Windows 10/11 system in mind. Install the necessa
 Note of Thanks
 --------------
 Big thanks to all the authors of the different libraries that I had to use.
+
+Frontend Example
+----------------
+[Frontend.pdf](https://github.com/user-attachments/files/19013985/Frontend.pdf)
