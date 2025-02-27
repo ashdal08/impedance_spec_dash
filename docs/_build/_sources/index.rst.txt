@@ -1,0 +1,22 @@
+.. XPS Count documentation master file, created by
+   sphinx-quickstart on Wed Jan 29 11:16:42 2025.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Impedance Spectroscopy Dash documentation
+=========================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   impedance_spec_dash
+   hp4192a
+
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

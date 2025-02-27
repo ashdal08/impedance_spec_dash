@@ -1,0 +1,17 @@
+.. :tocdepth: 2
+
+HP 4192A device module
+======================
+
+
+
+.. automodule:: hp4192a
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Source Code
+-----------
+
+.. literalinclude:: ../src/custom_libs/hp4192a.py
+   :linenos:

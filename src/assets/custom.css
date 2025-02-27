@@ -1,0 +1,106 @@
+.input-group-text div p {
+  margin-bottom: 0px !important;
+}
+
+.dual-switch {
+  justify-content: center;
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.content-rows {
+  justify-content: center;
+  display: flex;
+}
+
+.offcanvas-style {
+  width: 40vw;
+}
+
+.offcanvas-markdown {
+  line-height: 200%;
+}
+
+.loading-spinner {
+  width: 5rem;
+  height: 5rem;
+}
+
+#open-offcanvas {
+  cursor: pointer;
+}
+
+.app-ui-division {
+  margin: 10px;
+  height: 97vh;
+  width: 97vw;
+  display: block;
+  justify-self: center;
+}
+
+div:has(div.col-3) {
+  height: 92vh;
+}
+
+/* div:has(div>div.dcc-graph) {
+  height: 92vh;
+} */
+
+div:has(div.dcc-graph) {
+  height: 92vh;
+}
+
+.dcc-graph {
+  height: 92vh;
+}
+
+.dual-switch-label {
+  justify-self: center;
+  display: flex;
+}
+
+.button-rows {
+  margin-bottom: 20px;
+}
+
+.shutdown-button-rows {
+  margin-top: 100px;
+}
+
+.input-group {
+  margin-bottom: 1rem;
+}
+
+.form-switch .form-check-input {
+  cursor: pointer;
+}
+
+.input-group input:invalid {
+  border-color: #dc3545;
+  padding-right: calc(1.5em + 0.75rem);
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12' fill='none' stroke='%23dc3545'%3e%3ccircle cx='6' cy='6' r='4.5'/%3e%3cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3e%3ccircle cx='6' cy='8.2' r='.6' fill='%23dc3545' stroke='none'/%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-position: right calc(0.375em + 0.1875rem) center;
+  background-size: calc(0.75em + 0.375rem) calc(0.75em + 0.375rem);
+  outline: none;
+}
+
+/* mjx-container {
+  font-size: 120%;
+} */
+
+.outline-controllers circle {
+  shape-rendering: geometricPrecision !important;
+}
+
+div:has(div > div > div.dash-spinner) {
+  z-index: 5;
+}
+
+div:has(div > div > div > div.dash-spinner) > div.dash-graph {
+  opacity: 0.6;
+}
+
+#fitted-parameters-table p {
+  margin-bottom: 0px;
+}

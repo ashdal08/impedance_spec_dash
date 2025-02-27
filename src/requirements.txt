@@ -1,0 +1,12 @@
+dash==2.18.2
+dash_bootstrap_components==1.7.1
+dash_bootstrap_templates==2.0.0
+dash_daq==0.5.0
+diskcache==5.6.3
+gevent==24.11.1
+numpy==2.2.3
+pandas==2.2.3
+plotly==6.0.0
+PyVISA==1.14.1
+scipy==1.15.2
+waitress==3.0.2
