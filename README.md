@@ -18,4 +18,5 @@ Big thanks to all the authors of the different libraries that I had to use.
 
 Frontend Example
 ----------------
-[Frontend.pdf](https://github.com/user-attachments/files/19013985/Frontend.pdf)
+![image](https://github.com/user-attachments/assets/3316523f-8e04-44c9-9e0b-6844f9e22b0e)
+
