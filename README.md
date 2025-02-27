@@ -10,7 +10,7 @@ The program communicates with an HP 4192A Impedance Spectrometer via GPIB to rec
 
 Requirements
 ------------
-This program was written for a Windows 10/11 system in mind. Install the necessary libraries mentioned in the requirements file. For recording the temperature, a Voltcraft VC870 multimeter was used. Readings from the multimeter are recorded on the PC via USB, using the sigrok-cli. Refer to https://sigrok.org/wiki/Downloads. The **sigrok-cli** folder needs to be placed in the **src** folder. Make sure to edit the `sigrok_cmd` in the `Databackend.multimeterGetTemperature` method with the specific voltmeter driver and location (hid, serial etc.) that is applicable to you.
+This program was written with a Windows 10/11 system in mind. Install the necessary libraries mentioned in the requirements file. For recording the temperature, a Voltcraft VC870 multimeter was used. Readings from the multimeter are recorded on the PC via USB, using the sigrok-cli. Refer to https://sigrok.org/wiki/Downloads. The **sigrok-cli** folder needs to be placed in the **src** folder. Make sure to edit the `sigrok_cmd` in the `Databackend.multimeterGetTemperature` method with the specific voltmeter driver and location (hid, serial etc.) that is applicable to you.
 
 Note of Thanks
 --------------
